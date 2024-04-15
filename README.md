@@ -1,3 +1,5 @@
-<div id="header" align="center">
-  <img src="https://pasteboard.co/E98mbwc2tQ9u.jpg" width="100"/>
-</div>
+##
+<p align="left"><samp>⎧</samp></p>
+<p align="center"><samp>Born to love emacs, forced to use vim</samp></p>
+<p align="right"><samp>⎭</samp></p>
+##
